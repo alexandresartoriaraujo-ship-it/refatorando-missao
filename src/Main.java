@@ -7,4 +7,5 @@ void main() {
     SistemaAluguel aluguel = new SistemaAluguel();
     aluguel.calcularAluguel(moto);
     aluguel.calcularAluguel(carro);
+
 }

@@ -3,6 +3,7 @@ public class Moto extends Veiculo{
         super(modelo,dias);
         super.setValorDiaria(60);
     }
+
 }
 
 

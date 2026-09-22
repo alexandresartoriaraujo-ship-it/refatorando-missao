@@ -6,4 +6,5 @@ public class SistemaAluguel {
         // o " \n " serve para pular linha
         IO.println("[LOG] Aluguel do veiculo processado com sucesso.  \n");
     }
+
 }
